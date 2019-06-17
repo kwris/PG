@@ -69,7 +69,7 @@
 .menu-branding .portrait {
   width: 250px;
   height: 250px;
-  background: url("../laptop3.jpg") no-repeat center;
+  background: url("laptop3.jpg") no-repeat center;
   border-radius: 50%;
   border: solid 3px #009900;
 }
@@ -128,7 +128,7 @@ body {
 }
 /*PROBLEM*/
 body#bg-img {
-  background: url(../biuro.jpg) no-repeat center center;
+  background: url(biuro.jpg) no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -341,7 +341,7 @@ main#home h1 {
     transform: translate3d(100%, 0, 0);
   }
   .menu-branding .portrait {
-    background: url("../lap.jpg") no-repeat center;
+    background: url("lap.jpg") no-repeat center;
     width: 150px;
     height: 150px;
   }
