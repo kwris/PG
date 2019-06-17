@@ -128,7 +128,7 @@ body {
 }
 /*PROBLEM*/
 body#bg-img {
-  background: url(biuro.jpg) no-repeat center center;
+  background: url("biuro.jpg") no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
 }
